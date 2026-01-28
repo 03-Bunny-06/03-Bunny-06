@@ -2,14 +2,7 @@
 
 ###
 
-<img align="right" height="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJkYWtuZzcyeXN5NTVvZHlndmZsM3BuZGlianhwMGUwNDR3cHJldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rvjRyn3dLSj8dqhKuv/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=03-Bunny-06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=03-Bunny-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
-</div>
+<img align="right" height="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJkYWtuZzcyeXN5NTVvZHlndmZsM3BuZGlianhwMGUwNDR3cHJldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rvjRyn3dLSj8dqhKuv/giphy.gif"  />
 
 ###
 
@@ -30,6 +23,12 @@
 ###
 
 <p align="left">📫 How to reach me <a href="mailto:saikowshik0306@gmail.com">saikowshik0306@gmail.com</a></p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=03-Bunny-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="330" alt="languages graph"  />
+</div>
 
 ###
 
