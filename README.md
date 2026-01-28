@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">📫 How to reach me <a href="saikowshik0306@gmail.com">saikowshik0306@gmail.com</a></p>
+<p align="left">📫 How to reach me <a href="mailto:saikowshik0306@gmail.com">saikowshik0306@gmail.com</a></p>
 
 ###
 
